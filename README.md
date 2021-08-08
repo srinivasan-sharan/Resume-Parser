@@ -6,12 +6,17 @@ For the main .py file, please take a look at parser.py file, the other files are
 
 I plan on making the pareser better in the future by using spacy for the natural language processing.
 
+
+I am yet to extract other details, such as skills and place of education. I plan on doing the changes soon.
+
+------------------------------------------------------------------------
+
 Name Accuracy: 27.2%
 
 Phone Number Accuracy: 96.96%
 
 Email Id Accuracy: 93.93%
 
-I am yet to extract other details, such as skills and place of education. I plan on doing the changes soon.
+------------------------------------------------------------------------
 
 Thank you!
